@@ -29,3 +29,7 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+#ignore - my test
+ignore1.txt
+ignore2.txt
